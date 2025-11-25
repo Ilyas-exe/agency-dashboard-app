@@ -28,7 +28,7 @@ A full-stack Next.js application for managing and viewing agencies and their con
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Ilyas-exe/agency-dashboard-app
 cd agency-dashboard-app
 ```
 
